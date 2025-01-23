@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ModelReplacement/ModelReplacementAPIUnity.png
+image: ../img/ModelReplacement/ModelReplacementAPIUnity.png
 title: "LethalCompanyModelReplacements"
 date: 2024
 published: true
@@ -24,4 +24,4 @@ summary: "I learned to use various community-built tools and model editing progr
 
 
 
-ModelReplacementAPI git(https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI)
+ModelReplacementAPI git([https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI](url))
