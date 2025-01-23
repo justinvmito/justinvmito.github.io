@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/ModelReplacement/ModelReplacementAPIUnity.png
+image: img/ModelReplacement/ModelReplacementAPIUnity.png
 title: "LethalCompanyModelReplacements"
 date: 2024
 published: true
@@ -13,8 +13,8 @@ summary: "I learned to use various community-built tools and model editing progr
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/ModelReplacement/Blender1" class="img-thumbnail" >
-  <img width="200px" src="../img/ModelReplacement/ModelReplacementAPIUnity" class="img-thumbnail" >
+  <img width="200px" src="../img/ModelReplacement/Blender1.png" class="img-thumbnail" >
+  <img width="200px" src="../img/ModelReplacement/ModelReplacementAPIUnity.png" class="img-thumbnail" >
 
 </div>
 
