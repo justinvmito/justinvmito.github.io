@@ -25,5 +25,6 @@ Over the course of a few weeks, I created this database, named project1, for ICS
 This project was an important milestone to me. Previously, I had written only small, isolated programs designed to perform small tasks. In the development of this project, I practiced planning out large pieces of software and implementing it. I also gained experience working in an Unix environment, writing code in C and Java, and using Makefiles.
 
 
-[ModelReplacementAPI](https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI)
-<a href=https://[github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI](url)"">absolutefile</a>
+
+
+
