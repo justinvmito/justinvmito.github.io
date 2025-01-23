@@ -6,7 +6,7 @@ title: "Cracking The Code"
 date: 2025-01-22
 published: true
 labels:
-  - Software engineering
+  - Software Engineering
   - Interests
 ---
 
