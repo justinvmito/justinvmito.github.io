@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/ModelReplacement/Blender1.png
 title: "LethalCompanyModelReplacements"
 date: 2024
 published: true
