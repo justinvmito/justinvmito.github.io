@@ -20,8 +20,8 @@ summary: "I made a database with a save feature for ICS 212 using C and Java, in
 
 </div>
 
-This database, named project1, was a project I created for ICS 212 in the Spring of 2024. Its most notable features are 
+This database, named project1, was a project I created for ICS 212 in the Spring of 2024. Its most notable features are a save function for discrete use
 
 
 
-<a href=https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI"">absolutefile</a>
+<a href=https://[github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI](url)"">absolutefile</a>
