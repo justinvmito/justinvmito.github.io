@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ModelReplacement/ModelReplacementAPIUnity2.png
+image: img/ModelReplacement/ModelReplacementAPIUnity3.png
 title: "LethalCompanyModelReplacements"
 date: 2024
 published: true
