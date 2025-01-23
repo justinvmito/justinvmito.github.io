@@ -13,9 +13,9 @@ summary: "I learned to use various community-built tools and model editing progr
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/ModelReplacement/Blender1" class="img-thumbnail" >
+  <img width="200px" src="../img/ModelReplacement/ModelReplacementAPIUnity" class="img-thumbnail" >
+
 </div>
 
   Lethal Company is a 4-player cooperative video game that I play with friends. The game has a rich modding community which is constantly adding new content to the game and developing new methods to add even more features to the game. In January of 2024, the first releases of the tool "ModelReplacementAPI" was made public by its developer BunyaPineTree (see link below). The tool allowed modders to swap out the players' in-game character models with custom models, but this process required (and still does) a lot of work in numerous modelling softwares. 
