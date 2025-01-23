@@ -10,7 +10,7 @@ labels:
   - Interests
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/cracking-the-code/cracking-the-code.png">
 
 I have held a close relationship with technology my entire life. Growing up in California's Silicon Valley, the use of technology in school settings was unavoidable. Additionally, my father is a software engineer while my mother holds a similarly technology-centered profession, making the use of tech completely inescapable. Naturally, I would grow to embrace it. That said, I could only understand most tech, especially computers, at a surface level. I knew how to use them, but ultimately knew little about them.
 
