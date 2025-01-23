@@ -1,0 +1,25 @@
+---
+layout: project
+type: project
+image: img/ModelReplacement/ModelReplacementAPIUnity4.png
+title: "Database"
+date: 2024-23-24
+published: true
+labels:
+  - Unix
+  - VI
+  - C
+  - Java
+summary: "I made a database with a save feature for ICS 212 using C and Java, in a Unix environment."
+---
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/ModelReplacement/Blender1.png" class="img-thumbnail" >
+  <img width="200px" src="../img/ModelReplacement/ModelReplacementAPIUnity.png" class="img-thumbnail" >
+
+</div>
+
+
+
+
+
