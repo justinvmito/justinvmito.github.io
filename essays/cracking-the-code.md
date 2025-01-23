@@ -12,7 +12,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/cracking-the-code/cracking-the-code.png">
 
-I have held a close relationship with technology my entire life. Growing up in California's Silicon Valley, the use of technology in school settings was unavoidable. Additionally, my father is a software engineer while my mother holds a similarly technology-centered profession, making the use of tech completely inescapable. Naturally, I would grow to embrace it. That said, I could only understand most tech, especially computers, at a surface level. I knew how to use them, but ultimately knew little about them.
+I have held a close relationship with technology my entire life. Growing up in California's Silicon Valley, the use of technology in a school setting was unavoidable. Additionally, my father is a software engineer and my mother holds a similarly technology-centered profession, making tech completely inescapable. Naturally, I would grow to embrace it, and it became present in most aspects of my life. That said, I could only understand most tech, especially computers, at a surface level. I knew how to use them, but unfortunately knew little about how they worked.
 
 Cutting to today, I can safely say I know a lot more. I am studying Data Science, although I reserve an curiosity in all things computer related. Seeing how much I use software in my daily life, from usage in internet browsing, social media, video games, mod development, long-distance communications, among an unspeakable number of other uses, I have a specially vested interest in its development. 
 
