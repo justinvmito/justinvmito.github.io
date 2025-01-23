@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "justinvmito", "url": "http://github.com/justinvmito" },
-      { "network": "linkedin", "username": "Justin Mito", "url": "http://linkedin.com/in/changeme" }
+      { "network": "linkedin", "username": "Justin Mito", "url": "https://www.linkedin.com/in/justin-mito/" }
     ]
   },
   "interests": [
