@@ -11,7 +11,7 @@ labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/cracking-the-code/typescript.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/typescript/typescript.png">
 
 Before enrolling in ICS 314, I have had no experience and next to no knowledge regarding Javascript and Typescript. I had believed that Javascript was essentially the same as Java. Looking back now, I can see how wrong that assumption was.
 Recently, I have had the opportunity to learn and experince coding in Javascript, and can now say that this is (mostly) not the case. Now that I am familiar with Javascript, I can say that I dislike it due to its lack of variable types. To me, the ability to assign variables a value of any type, thus forcing the computer to auto-assign types, makes code difficult to read and, personally, less intuitive to work with.
