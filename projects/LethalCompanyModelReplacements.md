@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/ModelReplacement/ModelReplacementAPIUnity4.png
-title: "LethalCompanyModelReplacements"
+title: "Lethal Company Model Replacements"
 date: 2024
 published: true
 labels:
