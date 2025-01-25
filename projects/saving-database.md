@@ -10,7 +10,7 @@ labels:
   - VI
   - C
   - C++
-summary: "I made a database with a save feature for ICS 212 using C and C++, in a Unix environment."
+summary: "A database with a save feature, made for ICS 212 using C and C++ in a Unix environment."
 ---
 
 <div class="text-center p-4">
