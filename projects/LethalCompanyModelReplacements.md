@@ -9,7 +9,7 @@ labels:
   - Blender
   - Unity
   - Lethal Company
-summary: "I used various tools and model editing programs to create mods for the video game 'Lethal Company'."
+summary: "A set of Mods for the video game 'Lethal Company.'"
 ---
 
 <div class="text-center p-4">
