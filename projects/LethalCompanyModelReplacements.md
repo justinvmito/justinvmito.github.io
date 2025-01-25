@@ -13,8 +13,8 @@ summary: "I used various tools and model editing programs to create mods for the
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/ModelReplacement/Blender1.png" class="img-thumbnail" >
-  <img width="200px" src="../img/ModelReplacement/ModelReplacementAPIUnity.png" class="img-thumbnail" >
+  <img width="400px" src="../img/ModelReplacement/Blender1.png" class="img-thumbnail" >
+  <img width="400px" src="../img/ModelReplacement/ModelReplacementAPIUnity.png" class="img-thumbnail" >
 
 </div>
 
