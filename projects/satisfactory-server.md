@@ -18,6 +18,8 @@ Satisfactory is a game about finding efficient ways to process input and produce
 
 After running the server executable, we tackled its networking together. First, we opened a port for the server through Windows Defender Firewall, so that the server could transmit and recieve game updates to its clients. The next step was configuring port forwarding on our router, which would allow me to access the server using the internet. Without this step, I would be unable to access the server. 
 
+From this project, I have learned what ports are, how firewalls work, and how servers connect to clients. Before this project, the concept and existence of ports were unknown to me, so my knowledge has been greatly expanded. That said, there is still a lot for me to learn on how the Internet and inter-device communications function.
+
 The end result was a game of Satisfactory that the both of us could play on, together. It looks something like this: 
 
 <div class="text-center p-4">
