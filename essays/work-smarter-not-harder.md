@@ -1,3 +1,18 @@
+---
+layout: essay
+type: essay
+title: "Work Smarter, Not Harder"
+# All dates must be YYYY-MM-DD format!
+date: 2025-01-30
+published: true
+labels:
+  - Questions
+  - Answers
+  - StackOverflow
+---
+
+## Get some help
+
 In my programming experiences, the internet was my best friend. More specifically, the information that it peddled to me was. Much of the time, the solutions to my problems could be found online, within tutorials or from forum posts by fellow programmers. However, there are times where the solutions to problems could not be found on the web, in which case it becomes necessary to consult someone more knowledgeable in the matter. However, asking people questions is nothing like googling it. The other party needs to be able to understand what the problem is and most importantly, not become repulsed by its presentation and turn away. For that reason, it is vital that the question is smart.
 
 ## What makes a question smart?
