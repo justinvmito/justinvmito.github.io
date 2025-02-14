@@ -17,7 +17,9 @@ Coding is fun. It is often challenging and requires the writer to put a lot of t
 ## Reading is Hard
 While I enjoy writing code, the same cannot be said about reading it. It is difficult for me to visualize code when I am not actively in the process of writing it. As a result, reading and understanding code becomes just as, if not more, challenging than writing. Worse, it isn't fun, as it lacks the enjoyable mental process that come with designing. While already difficult, reading can be made even more arduous by errors like improper/non-standardized syntax, ugly code, and more. Problems like this is why the enforcement of coding standards is important.
 
+
 <img width="200px" class="rounded float-start pe-4" src="../img/Lint/lint.jpg">
+
 
 ## Cleaning the Lint Filter
 Over the past week, I have been writing typescript programs in VSCode, under the watch of ESLint. ESLint has complained numerous, countless times about my code, forced me to add or remove hundreds of space characters or newlines, and made other objections which ultimately didn't change how well my code functioned. With or without ESLint, my program would have ran just fine. As tedious as fixing the benign errors were, I must admit that ESLint's strict enforcement of coding standards was beneficial to my work. By forcing me to adopt and abide by a cleaner coding style, I have been able to better read my own code, an improvement which has enchanced my ability to debug and fix issues.
