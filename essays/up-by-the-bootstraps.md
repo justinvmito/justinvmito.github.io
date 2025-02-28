@@ -14,6 +14,8 @@ labels:
 
 <img width="400px" class="rounded float-start pe-4" src="../img/bootstraps/wow-i-hate-this-more.png">
 
+## HTML: Can we do better?
+
 The first thought that came to mind after producing my first HTML + CSS project was "wow, that was confusing." The most recent thought that came to my mind after completing my most recent html project was "wow, that was also confusing, but slightly less so." Unlike in my prior experiences learning new programming languages, I have predominantly felt perplexion and frustration throughout my programming journey in HTML and CSS. It was difficult for me to predict what kind of changes my code would make to my webpage, and it was even harder trying to figure out how I should even program the page in the first place. While certainly an useful addition to a software developer's skillset, HTML is definitely not easy to learn.
 
 ## Theres a snake in my Boot(strap)
