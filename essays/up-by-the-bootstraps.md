@@ -28,7 +28,9 @@ Bootstrap can quickly help new HTMLers produce better webpages. The left webpage
 <img width="200px" class="rounded float-start pe-4" src="../img/bootstraps/just_html.png">
 
 <img width="200px" class="rounded float-start pe-4" src="../img/bootstraps/bootSnake.png">
+  
 
+  
 ## Implications for Software Engineering
 
 There are many advantages conferred by using a popular framework as compared to just the base product. One such advantage of Bootstrap is that the webpages made with it, as well as the code, begin to look similar to one-another. Many complicated tasks, which could have widely varying implementations in HTML, follow a similar structure when using Bootstrap's prebuilts. When it comes to maintaining projects, it is significantly better for the project to be written in a standardized way, following logic and style that is more mainstream rather than unique to the writer. If you generally use for loops, it'll be easier for you to read for loops than while loops. The same thing applies to coding styles. 
