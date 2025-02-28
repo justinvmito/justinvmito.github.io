@@ -25,9 +25,9 @@ The use of Bootstrap greatly simplifies webpage design, when compared to using j
 
 Bootstrap can quickly help new HTMLers produce better webpages. The left webpage was made in HTML + CSS, the right was predominantly made with Bootstrap's help.
 
-<img width="600px" class="rounded float-start pe-4" src="../img/bootstraps/just_html.png">
+<img height="600px" class="rounded float-start pe-4" src="../img/bootstraps/just_html.png">
 
-<img width="600px" class="rounded float-start pe-4" src="../img/bootstraps/bootSnake.png">
+<img height="600px" class="rounded float-start pe-4" src="../img/bootstraps/bootSnake.png">
   
 <br>
 <br>
