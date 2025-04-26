@@ -10,7 +10,7 @@ labels:
   - Interests
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/cracking-the-code/cracking-the-code.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/cracking-the-code/cracking-the-code.png">
 
 Throughout my life, I have held a close relationship with technology of all kinds. I grew up in California's Silicon Valley, where tech companies and the influence of computers were ever present. As such, computers were commonly found and used in  schools, in homes, and in workplaces. Additionally, my father is a software engineer and my mother holds a similarly technology-centered profession, making tech completely inescapable. Naturally, I would grow to embrace it, and it became present in most aspects of my life. That said, I could only understand most tech, especially computers, at a surface level. I knew how to use them, but unfortunately knew little about how they worked.
 
