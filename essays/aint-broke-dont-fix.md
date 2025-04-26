@@ -10,7 +10,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/broke/brokent.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/broke/brokent.png">
 
 ## The Three Rs
 Growing up, I've heard the phrase Reduce, Reuse, Recycle repeated over and over. Believing that my contributions would help save the planet, I strove to do my part by meticulously by repurposing and recycling "trash." Eventually, it became clear that my efforts put into recycling meant little as recycling was mostly a hoax within my municipality. One way or another, my bottles and cans ultimately ended up in the landfill. Even with this newfound understanding regarding materials recycling, the phrase still lived on in my head. The idea would become useful later, once I began programming. 
