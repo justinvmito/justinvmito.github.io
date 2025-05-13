@@ -40,7 +40,7 @@ and I found that their "work" negatively impacted the functionality of the proje
 <br>
 <strong> 12. Documenting Code: </strong> I can do that myself. AI understands my code less than I do, and will have produce less accurate/precise documentation.
 <br>
-<strong>13. Quality assurance e.g. “What’s wrong with this code...” or “Fix the ESLint errors in..." I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code. I also do not trust it to do so properly.
+<strong>13. Quality assurance e.g. “What’s wrong with this code...” or “Fix the ESLint errors in...": </strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code. I also do not trust it to do so properly.
 <br>
 <strong> 14. Other uses in ICS 314 not listed: </strong>I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code.
 <br>
