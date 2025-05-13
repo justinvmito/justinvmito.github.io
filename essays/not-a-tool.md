@@ -14,20 +14,34 @@ labels:
 Ever since the dawn of mankind, humans have been utilizing tools. Throughout the ages, tools have been used to serve humankind and better their lives. Recently, a new kind of tool was created, one that has seized the world practically overnight. For better or worse, the world will never be the same again. Since the public release of ChatGPT over a year ago, the use of AI has become commonplace in places such as schools and workplaces, and has found numerous applications in the lives of individuals. Now, AI allows those unfamiliar with coding to write their own programs and structure their own software applications. Such is as a tool should do, but there is more to the story. 
 ## Personal Experience with AI
 I do not use AI if I can help it. As of far, I have not used ChatGPT or any other AI at all for coding, as I believe that (and have observed) their outputs to be unreliable. When ChatGPT first released, many jumped upon the AI train, and soon became utterly dependent on it. I noticed that their "work" and understanding of the topics consistently failed to meet expectations, and their response to most problems was simply to" ask Chat." Therefore, I chose not to follow suite and use AI so that I could develop my own coding skills, and not fall into the same pitfalls my colleagues did.
+<br>
 <strong>1. Experience WODs e.g. E18:</strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code.
+<br>
 <strong>2. In-class Practice WODs:</strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code.
 <br>
 <strong>3. In-class WODs:</strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code.
+<br>
 <strong>4. Esays: </strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code.
-<strong>5. Final Project: </strong> I am certain a teammate was relying on AI to do their portion of the project in their stead, and I found that their "work" negatively impacted the functionality of the project. Hence, I chose to not do the same.
+<br>
+<strong>5. Final Project: </strong> I am certain a teammate was relying on AI to do their portion of the project in their stead, 
+and I found that their "work" negatively impacted the functionality of the project. Hence, I chose to not do the same.
+<br>
 <strong> 6. Learning a concept/tutorial: </strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code.
+<br>
 <strong> 7. Answering a question in class or in Discord: </strong> I opted to use online articles instead of prompting AI to find these answers. I chose to do this since it would probably have taken less time than prompting.
+<br>
 <strong> 8. Asking or answering a smart-question: </strong> I thought it was important for me to be able to answer the questions from my own understanding of the problem.
+<br>
 <strong> 9. Coding example e.g. “give an example of using Underscore .pluck”: </strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code.
-<strong> 10. Explaining Code: </strong> Documentation exists. 
+<br>
+<strong> 10. Explaining Code: </strong> Documentation exists.
+<br>
 <strong> 11. Writing Code: </strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code. Also, AI written code tends to be buggy/not interact well with the rest of a program when removed from vacuum.
+<br>
 <strong> 12. Documenting Code: </strong> I can do that myself. AI understands my code less than I do, and will have produce less accurate/precise documentation.
+<br>
 <strong>13. Quality assurance e.g. “What’s wrong with this code <code>” or “Fix the ESLint errors in <code>”:</strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code. I also do not trust it to do so properly.
+<br>
 <strong> 14. Other uses in ICS 314 not listed: </strong>I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code.
 ## Impact on Learning and Understanding
 AI has encouraged me to rely upon myself by showing me, through the experiences of others, what would happen if I chose to rely on others instead of myself. In those I have worked with, in both WODS and the Final Project, AI appears to have discouraged students from learning. I believe that this happens since these students put little effort into their work, since AI does it for them, which causes them to put less time into learning how to accomplish the task on their own. I believe that if I used AI, the same would have happened to me.
