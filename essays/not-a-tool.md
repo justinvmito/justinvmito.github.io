@@ -40,9 +40,10 @@ and I found that their "work" negatively impacted the functionality of the proje
 <br>
 <strong> 12. Documenting Code: </strong> I can do that myself. AI understands my code less than I do, and will have produce less accurate/precise documentation.
 <br>
-<strong>13. Quality assurance e.g. “What’s wrong with this code <code>” or “Fix the ESLint errors in <code>”:</strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code. I also do not trust it to do so properly.
+<strong>13. Quality assurance e.g. “What’s wrong with this code...” or “Fix the ESLint errors in..." I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code. I also do not trust it to do so properly.
 <br>
 <strong> 14. Other uses in ICS 314 not listed: </strong>I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code.
+<br>
 ## Impact on Learning and Understanding
 AI has encouraged me to rely upon myself by showing me, through the experiences of others, what would happen if I chose to rely on others instead of myself. In those I have worked with, in both WODS and the Final Project, AI appears to have discouraged students from learning. I believe that this happens since these students put little effort into their work, since AI does it for them, which causes them to put less time into learning how to accomplish the task on their own. I believe that if I used AI, the same would have happened to me.
 ## Practical Analysis
