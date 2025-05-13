@@ -16,6 +16,7 @@ Ever since the dawn of mankind, humans have been utilizing tools. Throughout the
 I do not use AI if I can help it. As of far, I have not used ChatGPT or any other AI at all for coding, as I believe that (and have observed) their outputs to be unreliable. When ChatGPT first released, many jumped upon the AI train, and soon became utterly dependent on it. I noticed that their "work" and understanding of the topics consistently failed to meet expectations, and their response to most problems was simply to" ask Chat." Therefore, I chose not to follow suite and use AI so that I could develop my own coding skills, and not fall into the same pitfalls my colleagues did.
 <strong>1. Experience WODs e.g. E18:</strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code.
 <strong>2. In-class Practice WODs:</strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code.
+<br>
 <strong>3. In-class WODs:</strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code.
 <strong>4. Esays: </strong> I did not use AI because I wanted to develop my own skills instead of simply copying and pasting code.
 <strong>5. Final Project: </strong> I am certain a teammate was relying on AI to do their portion of the project in their stead, and I found that their "work" negatively impacted the functionality of the project. Hence, I chose to not do the same.
